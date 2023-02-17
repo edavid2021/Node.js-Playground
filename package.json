@@ -1,0 +1,19 @@
+{
+  "name": "hw4-nodejs-edavid2021",
+  "version": "1.0.0",
+  "description": "",
+  "main": "characters.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://edavid2021: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@github.com/cop4808-spring-2023-fullstack-web/hw4-nodejs-edavid2021.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cop4808-spring-2023-fullstack-web/hw4-nodejs-edavid2021/issues"
+  },
+  "homepage": "https://github.com/cop4808-spring-2023-fullstack-web/hw4-nodejs-edavid2021#readme"
+}
