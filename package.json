@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/cop4808-spring-2023-fullstack-web/hw4-nodejs-edavid2021#readme",
   "dependencies": {
-    "pig-latin": "^2.0.2"
+    "pig-latin": "^2.0.2",
+    "sentiment": "^5.0.2"
   }
 }
