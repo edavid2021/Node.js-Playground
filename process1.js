@@ -22,4 +22,4 @@ process.stdout.write('Hello Pluto'); //prints after the cleared text
 
 process.stdout.write('\n\n');
 
-process.stderr.write('output to stderr');
+process.stderr.write('output to stderr\n');
